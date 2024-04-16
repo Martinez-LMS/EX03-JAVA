@@ -13,7 +13,7 @@ public class Programa {
         System.out.println("Informe o numero da atividade que deseja rodar: 1 à 26");
         n = Prompt.lerInteiro();     
   
-        do {  
+        do {   
             switch (n) {
                 case 0:
                     System.out.println("Saindo do programa...");
