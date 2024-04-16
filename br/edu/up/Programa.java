@@ -7,8 +7,6 @@ public class Programa {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
 
-        System.out.println("Lista de Exercicios 3 - CLASSES, MÉTODOS E PACOTES");
-        System.out.println("----------------------------------------------------------");
 
         int n;
 
