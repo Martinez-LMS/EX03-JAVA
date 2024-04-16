@@ -47,7 +47,7 @@ public class Programa {
                     break;
 
                 case 6:
-                    System.out.println("Exercicio 06");
+                    System.out.println(" Exercicio 06");
                     Ex06.executar();
                     break;
 
