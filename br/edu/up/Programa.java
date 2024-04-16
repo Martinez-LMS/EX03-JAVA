@@ -11,7 +11,7 @@ public class Programa {
         int n;
 
         System.out.println("Informe o numero da atividade que deseja rodar: 1 à 26");
-        n = Prompt.lerInteiro();   
+        n = Prompt.lerInteiro();    
   
         do {
             switch (n) {
