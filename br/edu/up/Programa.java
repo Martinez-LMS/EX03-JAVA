@@ -53,7 +53,7 @@ public class Programa {
 
                 case 7:
                     System.out.println("Exercicio 07");
-                    Ex07.executar();
+                    Ex07.executar(); 
                     break;
 
                 case 8:
