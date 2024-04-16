@@ -8,7 +8,7 @@ public class Ex10 {
     public static void executar(){
        
         
-        System.out.println("Quantas pessoas você deseja verificar?");
+        System.out.println("Quantas pessoas você deseja verificar?"); 
         int numPessoas = Prompt.lerInteiro();
 
         Pessoas[] pessoas = new Pessoas[numPessoas];
